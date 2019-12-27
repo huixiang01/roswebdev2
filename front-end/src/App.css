@@ -1,0 +1,35 @@
+.app {
+  text-align: center;
+}
+
+.applogo {
+  height: 40vmin;
+}
+
+.appheader {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.accordiontab {
+  background-color:powderblue; 
+  display:none
+}
+
+.somebackgroundthingy {
+background-color:rgb(8, 255, 21);
+}
+
+.nodes {
+  background-color:rgb(189, 199, 255);
+}
